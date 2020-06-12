@@ -6,4 +6,6 @@ public class New {
 	int poorly;
 	
 	int richly;
+	
+	int moodly;
 }
