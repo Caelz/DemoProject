@@ -7,6 +7,8 @@ public class Main {
 		
 		System.out.println("BIG FEATURE");
 		
+		System.out.println("ANOTHER BIG FEATURE");
+		
 	}
 	
 	
