@@ -13,6 +13,8 @@ public class Main {
 		
 		System.out.println("Useless FEATURE");
 		
+		System.out.println("Another Useless FEATURE");
+		
 	}
 	
 	
